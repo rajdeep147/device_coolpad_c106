@@ -1,7 +1,7 @@
 [
   {
     "remote": "evo-devices",
-    "repository": "android_kernel_coolpad_msm8976",
+    "repository": "kernel_coolpad_msm8976",
     "target_path": "kernel/coolpad/msm8976"
   },
   {
