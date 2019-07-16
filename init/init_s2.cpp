@@ -112,5 +112,5 @@ void vendor_load_properties() {
         // Unknown variant
         property_set("ro.product.model", "C106");
     }*/
-	property_set("ro.product.model", "C106");
+	property_set("ro.product.model", "c106");
 }
