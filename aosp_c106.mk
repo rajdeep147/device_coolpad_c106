@@ -34,8 +34,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 DEVICE_MAINTAINERS="Mustafa Shaikh"
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := aosp_c106
-PRODUCT_NAME := c106
+PRODUCT_DEVICE := c106
+PRODUCT_NAME := aosp_c106
 PRODUCT_BRAND := LeEco
 PRODUCT_MANUFACTURER := LeMobile
 
