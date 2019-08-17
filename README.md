@@ -1,6 +1,6 @@
 Copyright 2016 - The CyanogenMod Project
 
-Device configuration for Letv LeEco Le 2 (International).
+Device configuration for COOLPAD COOL 1 (International).
 =======================================================
 
 Basic   | Spec Sheet
@@ -11,12 +11,12 @@ GPU     | Adreno 510
 Memory  | 3GB
 Shipped Android Version | 6.0.1
 Storage | 32GB
-Battery | 3000 mAh
-Weigth | 153 g (5.40 oz)
-Dimensions | 151.1 x 74.2 x 7.5 mm (5.95 x 2.92 x 0.30 in)
+Battery | 4060 mAh
+Weigth | 167 g (5.89 oz)
+Dimensions | 152 x 74.8 x 8.2 mm (5.98 x 2.94 x 0.32 in)
 Display | IPS, 1080 x 1920 pixels (~401 ppi pixel density)
-Rear Camera  | 16 MP, f/2.0, phase detection autofocus, dual-LED (dual tone) flash
+Rear Camera  | 13+13MP RGB+MONO SENSORS, f/2.0, phase detection autofocus, dual-LED (dual tone) flash
 Front Camera | 8 MP, f/2.2, 1.4 µm pixel size, 1080p
-Release Date | April 2016
+Release Date | January 5th, 2017
 
-![Coolpad Cool 1](configs/Cool1-Dual-3GB-RAM.png "Coolpad Cool 1")
+![COOLPAD COOL 1](configs/coolpad-cool-dual-1.jpg "COOLPAD COOL 1")
