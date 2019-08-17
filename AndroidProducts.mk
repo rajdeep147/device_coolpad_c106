@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_c106.mk
+    $(LOCAL_DIR)/bootleg_c106.mk

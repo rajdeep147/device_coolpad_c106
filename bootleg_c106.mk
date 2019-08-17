@@ -27,15 +27,11 @@ IS_PHONE := true
 $(call inherit-product, device/coolpad/c106/full_c106.mk)
 
 # Inherit some common AOSP stuff.
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
-
-# Maintainer Prop
-PRODUCT_BUILD_PROP_OVERRIDES += \
-DEVICE_MAINTAINERS="Mustafa Shaikh"
+$(call inherit-product, vendor/bootleggers/config/common_full_phone.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := c106
-PRODUCT_NAME := aosp_c106
+PRODUCT_NAME := bootleg_c106
 PRODUCT_BRAND := LeEco
 PRODUCT_MANUFACTURER := LeMobile
 
@@ -50,6 +46,3 @@ BUILD_FINGERPRINT := Letv/c106_WW/le_c106_ww:6.0.1/IIXOSOP5801910121S/44:user/re
 
 # Release name
 PRODUCT_RELEASE_NAME := c106
-
-# Official
-CUSTOM_BUILD_TYPE=OFFICIAL
